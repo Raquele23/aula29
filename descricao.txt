@@ -1,1 +1,2 @@
-vou fazer um add,commit, push e pull
+vou fazer um add,commit e push
+agora vou fazer um pull
